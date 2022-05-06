@@ -1,5 +1,5 @@
 <h2 align="center">Data file and database</h2>
-<h4 align="center">Coffee employees list and schedules</h4>
+<h4 align="center">Cafe employees list and schedules</h4>
 
 ## Project Overview
 
@@ -48,6 +48,6 @@ in package.json file
 
 ## Available script
 
-| Command         | Description       |     |
-| --------------- | ----------------- | --- |
-| `npm run start` | Open local server |     |
+| Command         | Description                           |     |
+| --------------- | ------------------------------------- | --- |
+| `npm run start` | Open local server / start application |     |
